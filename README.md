@@ -1,2 +1,2 @@
 # hello-world
-This repository is to practice the Github flow
+My name is Ibrahim Denis Fofanah
